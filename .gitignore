@@ -7,7 +7,6 @@
 /ckpt/re-dh-white-main/*.pth
 /ckpt/re-dh-white-main2/*.pth
 /output/
-/imgs/
 
 *.pyc
 *.pth
